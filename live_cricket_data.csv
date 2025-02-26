@@ -1,0 +1,6 @@
+Match,Team1,Team2,Team1_Score,Team2_Score,Overs_Completed,Top_Batsman,Top_Batsman_Runs,Top_Bowler,Top_Bowler_Wickets,Match_Status
+IND vs AUS,India,Australia,250,245,50.0,Virat Kohli,85,Jasprit Bumrah,3,Completed
+ENG vs PAK,England,Pakistan,310,300,48.3,Joe Root,102,Jofra Archer,4,Live
+SA vs NZ,South Africa,New Zealand,280,270,50.0,Quinton de Kock,76,Kagiso Rabada,2,Completed
+WI vs SL,West Indies,Sri Lanka,230,220,46.5,Nicholas Pooran,88,Akeal Hosein,3,Live
+BAN vs AFG,Bangladesh,Afghanistan,275,260,50.0,Shakib Al Hasan,91,Rashid Khan,5,Upcoming
